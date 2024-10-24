@@ -1,6 +1,6 @@
 body {
-  font-family: sans-serif;
-  color: #666;
+  font-family: HiraMinProN-W6;
+  color: #0D0D0D;
 }
 
 input {
@@ -17,13 +17,13 @@ button {
 }
 
 button:hover {
-  background-color: #79a8a9;
+  background-color: #BFBDB4;
   color: #fff;
   cursor: pointer;
 }
 
 .input-area {
-  background-color: #c6e5d9;
+  background-color: #1F818C;
   width: 400px;
   height: 30px;
   padding: 8px;
@@ -32,7 +32,7 @@ button:hover {
 }
 
 .incomplete-area {
-  border: 2px solid #aacfd0;
+  border: 2px solid #BF9999;
   width: 400px;
   min-height: 200px;
   padding: 8px;
@@ -41,13 +41,13 @@ button:hover {
 }
 
 .complete-area {
-  border: 2px solid #aacfd0;
+  border: 2px solid #BF9999;
   width: 400px;
   min-height: 200px;
   padding: 8px;
   margin: 8px;
   border-radius: 8px;
-  background-color: #c9dede;
+  background-color: #BF9999;
 }
 
 .title {
